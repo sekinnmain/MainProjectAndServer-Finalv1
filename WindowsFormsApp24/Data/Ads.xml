@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ads>
+  <Ad>
+    <CompanyName>Andrea Bocelli</CompanyName>
+    <Price>1</Price>
+    <Active>false</Active>
+    <AdBody>some nice things along the way</AdBody>
+    <CreationDate>2019-06-09T17:04:24.7810017+03:00</CreationDate>
+    <ExpirationDate>2019-06-01T17:03:49</ExpirationDate>
+    <URL>google.com</URL>
+  </Ad>
+  <Ad>
+    <CompanyName>Ferrari</CompanyName>
+    <Price>3444</Price>
+    <Active>1</Active>
+    <AdBody>Some nice things are there</AdBody>
+    <CreationDate>2019-06-09T23:51:31.3455271+03:00</CreationDate>
+    <ExpirationDate>12/06/2019 23:50:32</ExpirationDate>
+    <URL>google.com</URL>
+    <Image>https://cdn.jamesedition.com/media/W1siZiIsImxpc3RpbmdfaW1hZ2VzLzIwMTkvMDMvMDcvMTQvMzIvMzkvNzE3M2U3YjEtZjU3Yi00YTI0LThlMDUtODZjYmFlMjM1OTY1LzItRkVSUkFSSS1MQS1GRVJSQVJJLTE4MTIuanBnIl0sWyJwIiwidGh1bWIiLCIxMDQweDYyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLG51bGxdXQ/ferrari-laferrari.jpg?sha=719f7bc32bbecd67</Image>
+  </Ad>
+  <Ad>
+    <CompanyName>NetFlix</CompanyName>
+    <Price>8999</Price>
+    <Active>1</Active>
+    <AdBody>Watch NetFlix now!</AdBody>
+    <CreationDate>2019-06-09T23:52:17.1026833+03:00</CreationDate>
+    <ExpirationDate>13/06/2019 23:51:39</ExpirationDate>
+    <URL>netflix.com</URL>
+    <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/800px-Netflix_logo.svg.png</Image>
+  </Ad>
+</Ads>

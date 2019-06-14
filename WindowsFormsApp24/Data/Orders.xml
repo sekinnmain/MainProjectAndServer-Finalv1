@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order>
+    <idOrder>1250715215</idOrder>
+    <user>Amit</user>
+    <dishes>asdasdasd</dishes>
+    <TimeOrder>2019-06-10T17:05:14.3683904+03:00</TimeOrder>
+    <seatOrGo>Inside</seatOrGo>
+    <tableBnum>1800512266</tableBnum>
+    <ClinetRequest>Papas</ClinetRequest>
+    <ClinetFeedbackRate>5</ClinetFeedbackRate>
+    <ClinetFeedbackNote>Amit</ClinetFeedbackNote>
+    <Price>0</Price>
+  </Order>
+  <Order>
+    <idOrder>609272304</idOrder>
+    <user>chucho</user>
+    <dishes>asdasdsad</dishes>
+    <TimeOrder>2019-06-10T17:15:01.2357364+03:00</TimeOrder>
+    <seatOrGo>Inside</seatOrGo>
+    <tableBnum>1428505005</tableBnum>
+    <ClinetRequest>Ketchup</ClinetRequest>
+    <ClinetFeedbackRate>3</ClinetFeedbackRate>
+    <ClinetFeedbackNote>Edit dish needs previous</ClinetFeedbackNote>
+    <Price>0</Price>
+  </Order>
+  <Order>
+    <idOrder>139450262</idOrder>
+    <user />
+    <dishes>  pizza Dish4</dishes>
+    <TimeOrder>2019-06-13T11:31:41.6595689+03:00</TimeOrder>
+    <seatOrGo>Inside</seatOrGo>
+    <tableBnum>2112061177</tableBnum>
+    <ClinetRequest />
+    <ClinetFeedbackRate>1</ClinetFeedbackRate>
+    <ClinetFeedbackNote></ClinetFeedbackNote>
+    <Price>8900</Price>
+  </Order>
+  <Order>
+    <idOrder>665200942</idOrder>
+    <user />
+    <dishes>  Dish4 Dish8 Dish8 Dish64</dishes>
+    <TimeOrder>2019-06-13T13:45:31.7587547+03:00</TimeOrder>
+    <seatOrGo>Inside</seatOrGo>
+    <tableBnum>891693090</tableBnum>
+    <ClinetRequest>cxccxccxcxxcxcxc</ClinetRequest>
+    <ClinetFeedbackRate>2</ClinetFeedbackRate>
+    <ClinetFeedbackNote>sddsfd</ClinetFeedbackNote>
+    <Price>4</Price>
+  </Order>
+  <Order>
+    <idOrder>1900965047</idOrder>
+    <user />
+    <dishes>  Dish64 Dish8 Dish8</dishes>
+    <TimeOrder>2019-06-13T13:56:08.8554355+03:00</TimeOrder>
+    <seatOrGo>Inside</seatOrGo>
+    <tableBnum>1731947621</tableBnum>
+    <ClinetRequest>sasaa</ClinetRequest>
+    <ClinetFeedbackRate>1</ClinetFeedbackRate>
+    <ClinetFeedbackNote></ClinetFeedbackNote>
+    <Price>3</Price>
+  </Order>
+  <Order>
+    <idOrder>392158806</idOrder>
+    <user />
+    <dishes>  flore33s</dishes>
+    <TimeOrder>2019-06-13T18:10:25.3167125+03:00</TimeOrder>
+    <seatOrGo>Inside</seatOrGo>
+    <tableBnum>913471510</tableBnum>
+    <ClinetRequest />
+    <ClinetFeedbackRate>2</ClinetFeedbackRate>
+    <ClinetFeedbackNote>dfsfdsf</ClinetFeedbackNote>
+    <Price>1</Price>
+  </Order>
+  <Order>
+    <idOrder>524166287</idOrder>
+    <user />
+    <dishes>  flore33s</dishes>
+    <TimeOrder>2019-06-13T18:27:13.3295699+03:00</TimeOrder>
+    <seatOrGo>Inside</seatOrGo>
+    <tableBnum>954555732</tableBnum>
+    <ClinetRequest />
+    <ClinetFeedbackRate>1</ClinetFeedbackRate>
+    <ClinetFeedbackNote></ClinetFeedbackNote>
+    <Price>1</Price>
+  </Order>
+</Orders>
