@@ -334,6 +334,7 @@ namespace MAIN_GUI_Mangaer_window
                     Customer_feedback_txtbox.AppendText("Table total: ");
                     Customer_feedback_txtbox.AppendText(xe.Element("Price").Value);
                     Customer_feedback_txtbox.AppendText(Environment.NewLine);
+                    Customer_feedback_txtbox.AppendText(Environment.NewLine);
 
                     total_day_earned += Convert.ToInt32(xe.Element("Price").Value); // Total day earned
 

@@ -64,9 +64,6 @@
     <Compile Include="Login Screen\Login Screen\Login Screen\LoginScreen.Designer.cs">
       <DependentUpon>LoginScreen.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login Screen\Login Screen\Login Screen\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="Login Screen\Login Screen\Login Screen\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="Login Screen\Login Screen\Login Screen\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Login Screen\Login Screen\Login Screen\Properties\Resources.Designer.cs" />
     <Compile Include="Login Screen\Login Screen\Login Screen\Properties\Settings.Designer.cs" />
     <Compile Include="Login Screen\Login Screen\Login Screen\SignUp.cs">
@@ -177,9 +174,6 @@
     <EmbeddedResource Include="Login Screen\Login Screen\Login Screen\LoginScreen.resx">
       <DependentUpon>LoginScreen.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login_Screen.LoginScreen.resources" />
-    <EmbeddedResource Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login_Screen.Properties.Resources.resources" />
-    <EmbeddedResource Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login_Screen.SignUp.resources" />
     <EmbeddedResource Include="Login Screen\Login Screen\Login Screen\Properties\Resources.resx" />
     <EmbeddedResource Include="Login Screen\Login Screen\Login Screen\SignUp.resx">
       <DependentUpon>SignUp.cs</DependentUpon>
@@ -198,12 +192,6 @@
     <None Include="Login Screen\Login Screen\.vs\Login Screen\v15\Server\sqlite3\storage.ide-shm" />
     <None Include="Login Screen\Login Screen\.vs\Login Screen\v15\Server\sqlite3\storage.ide-wal" />
     <None Include="Login Screen\Login Screen\Login Screen\App.config" />
-    <None Include="Login Screen\Login Screen\Login Screen\bin\Debug\Login Screen.exe.config" />
-    <None Include="Login Screen\Login Screen\Login Screen\obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
-    <None Include="Login Screen\Login Screen\Login Screen\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <None Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.CoreCompileInputs.cache" />
-    <None Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.GenerateResource.cache" />
-    <None Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login Screen.csprojAssemblyReference.cache" />
     <None Include="Login Screen\Login Screen\Login Screen\Properties\Settings.settings" />
     <None Include="ManagerService\App.config" />
     <None Include="ManagerService\AppData.xsc">
@@ -262,12 +250,7 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Login Screen\Login Screen\Login Screen.sln" />
-    <Content Include="Login Screen\Login Screen\Login Screen\bin\Debug\Login Screen.exe" />
-    <Content Include="Login Screen\Login Screen\Login Screen\bin\Debug\Login Screen.pdb" />
     <Content Include="Login Screen\Login Screen\Login Screen\Login Screen.csproj" />
-    <Content Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.FileListAbsolute.txt" />
-    <Content Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login Screen.exe" />
-    <Content Include="Login Screen\Login Screen\Login Screen\obj\Debug\Login Screen.pdb" />
     <Content Include="Data\Ads.xml" />
     <Content Include="Data\Dishes.xml" />
     <Content Include="Data\Smtp.xml" />
@@ -333,6 +316,7 @@
     <None Include="Resources\EditButtonUpW.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Login Screen\Login Screen\Login Screen\bin\Debug\" />
     <Folder Include="Login Screen\Login Screen\Login Screen\bin\Release\" />
     <Folder Include="Login Screen\Login Screen\Login Screen\Data\" />
     <Folder Include="Login Screen\Login Screen\Login Screen\obj\Debug\TempPE\" />
